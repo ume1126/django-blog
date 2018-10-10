@@ -12,3 +12,11 @@ django2.0でブログを作るQiitaの完成版です。
 ### ■Requirement
 * Python 3.6
 * Django 2.0
+
+### ■このつかいかた
+```
+git clone https://github.com/ume1126/django-blog.git
+cd django-blog
+python manage.py migrate
+python manage.py runserver
+```
